@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="92c870dbdb0a1300d2219444ca9619ad" sys_domain="global" table="x_229904_innovate_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 15:01:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d69b4dbdb0a1300d2219444ca9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229904_innovate_innovate" name="x_229904_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">92c870dbdb0a1300d2219444ca9619ad</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_229904_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">1ec8f0dbdb0a1300d2219444ca96192c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 15:01:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_229904_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 14:58:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92c870dbdb0a1300d2219444ca9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_229904_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_229904_innovate">01a724dfdbc61300d2219444ca9619a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">01a724dfdbc61300d2219444ca9619a6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_92c870dbdb0a1300d2219444ca9619ad</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 14:58:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
